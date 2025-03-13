@@ -22,14 +22,14 @@ This is a simple **Python-based calculator** that allows users to perform basic 
    - Select an operation (1 for addition, 2 for subtraction, etc.).
    - Enter the numbers you’d like to calculate.
    - Perform as many calculations as you'd like in the same session.
-=====================================================================
+
 ## Example Usage
 Here’s an example interaction:
 
 Select the operation you'd like to perform (choose number, e.g.: 1): 1. add 2. subtract 3. multiply 4. divide
 Enter an operation (1, 2, 3, or 4): 4 Enter the first number (a): 4 Enter the second number (b): 0 Result of Division: Division by zero is not possible. Please try again.
 Do you want to perform another calculation? (yes/no): yes
-======================================================================
+
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
