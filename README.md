@@ -5,7 +5,7 @@
 
 # Basic Calculator (Version 02) 
 
-**File:** `basic_calculator_gui.py`
+**File:** `gui_basic_calculator.ipynb`
 
 This is an enhanced **Python-based calculator** that now features a user-friendly graphical user interface (GUI), making calculations simpler and more intuitive.
 
@@ -53,7 +53,7 @@ Below are screenshots of the Basic Calculator's GUI in action:
 ---
 # Basic Calculator (Version 01)
 
-**File:** `basic_calculator.py`
+**File:** `basic_calculator.ipynb`
 
 This is a simple **Python-based calculator** that allows users to perform basic mathematical operations interactively through the terminal.
 
